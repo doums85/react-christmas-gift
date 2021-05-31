@@ -47,7 +47,7 @@ const Footer = ({changeTheme}) => {
                 </div>
 
             <p className="footer__copy">
-                &#169; 2021 <a className="footer__link" href="https://www.linkedin.com/in/mamadou-faye-seck">Seck Mamadou Faye</a> 
+                &#169; 2021 <a className="footer__link" href="https://www.linkedin.com/in/mamadou-faye-seck">Seck Mamadou Faye. All right reserved</a> 
             </p>
             </div>
         </footer>
